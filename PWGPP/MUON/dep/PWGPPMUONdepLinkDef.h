@@ -10,5 +10,6 @@
 #pragma link C++ class AliAnalysisTaskMuonFakes+;
 #pragma link C++ class AliAnalysisTaskMuonPerformance+;
 #pragma link C++ class AliMTRChEffAnalysis+;
+//#pragma link C++ defined_in "MUON/dep/MuonResolution.h";
 
 #endif
